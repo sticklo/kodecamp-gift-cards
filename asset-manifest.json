@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kodecamp-gift-cards/static/css/main.fab6f5ce.css",
+    "main.js": "/kodecamp-gift-cards/static/js/main.b59f8dce.js",
+    "static/js/787.f5587e0a.chunk.js": "/kodecamp-gift-cards/static/js/787.f5587e0a.chunk.js",
+    "index.html": "/kodecamp-gift-cards/index.html",
+    "main.fab6f5ce.css.map": "/kodecamp-gift-cards/static/css/main.fab6f5ce.css.map",
+    "main.b59f8dce.js.map": "/kodecamp-gift-cards/static/js/main.b59f8dce.js.map",
+    "787.f5587e0a.chunk.js.map": "/kodecamp-gift-cards/static/js/787.f5587e0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fab6f5ce.css",
+    "static/js/main.b59f8dce.js"
+  ]
+}
