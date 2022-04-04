@@ -24,7 +24,7 @@ body {
   box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.075);
   padding: 2rem;
   line-height: 2rem;
-  background-color: rgb(165, 167, 168);
+  background-color: rgb(229 231 235);
 }
 @media screen and (max-width: 1000px) {
   .App {
